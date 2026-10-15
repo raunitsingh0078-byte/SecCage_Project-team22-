@@ -1,0 +1,6 @@
+seccage
+tests/allowed_test
+tests/network_test
+*.o
+logs/*
+!logs/.gitkeep
